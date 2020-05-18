@@ -12,3 +12,5 @@ Our app also has the function of goods collection. Your favorite esports periphe
 Our app makes a detailed and careful introduction to each product, so that you can fully understand these products and find your favorite e-sports peripheral learning supplies, so that you can purchase and order.
 
 E-sports peripheral stationery let you happy learning!
+
+If you have any questions, please contact us as follows :wwyq19990618@icloud.com

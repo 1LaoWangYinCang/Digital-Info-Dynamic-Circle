@@ -1,16 +1,15 @@
-# WenHuoDianJing
-WenHuoDianjing is a shopping mall for learning supplies around e-sports. Our e-sports peripheral stationery, with high restoration degree, excellent workmanship and accurate details, can greatly improve students' interest in learning.
+# JieBao Sports
 
-Our app is dedicated to promoting the most popular e-sports peripheral stationery with the best quality, so that people can buy the e-sports peripheral stationery they need in daily life with high efficiency and high quality.
+JieBao Sports is committed to promoting the most popular and professional arena in Chengdu, so that people can efficiently and high-quality book to their favorite arena in their daily life, and at the same time, you can easily record the score and match situation in the process of playing sports ball.
 
-Our app shows a complete range of esports peripheral learning supplies, including esports diary, esports exercise book, esports pen, esports pencil case, esports pencil box, and esports peripheral learning supplies for students' esports water cups. These complete categories of esports around the user can meet the selection and procurement.
+Our app is an app to reserve the arena court and record the score. Our stadium environment is clean and tidy, professional sports facilities. You can book a satisfactory stadium on our app.
 
-Our app makes a very detailed classification of these esports peripheral learning supplies, which helps users quickly find the esports peripheral learning supplies they want to buy.
+Our app shows a variety of arena courts, including baseball court, basketball court, football field, billiard hall, bowling club and other arena courts. These full range of arena courses can meet the user's selection and reservation. Our app also classifies these stadiums in great detail to help users quickly find the stadiums they want to book.
 
-Our app also has the function of goods collection. Your favorite esports peripheral products can be collected to the list of favorites, which is convenient for you to place an order next time.
+Our app will introduce each stadium in detail, so that you can fully understand these stadiums and find the stadiums you like, so that you can make an appointment and place an order. At the same time, our APP also has the collection function of the stadium. You can add your favorite courts to the list for your next browsing and ordering.
 
-Our app makes a detailed and careful introduction to each product, so that you can fully understand these products and find your favorite e-sports peripheral learning supplies, so that you can purchase and order.
+Our app also introduces the score recording function. When you play ball in the arena, you can use our app to record the score and match situation conveniently and quickly, and you can also share the score and match situation with your friends.
 
-E-sports peripheral stationery let you happy learning!
+About the arena, play well, easily record the score!
 
-If you have any questions, please contact us as follows :wwyq19990618@icloud.com
+If you have any questions, please contact us as follows :w18384297018@163.com

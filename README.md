@@ -1,15 +1,12 @@
-# JieBao Sports
+# LeiSu Sports
 
-JieBao Sports is committed to promoting the most popular and professional arena in Chengdu, so that people can efficiently and high-quality book to their favorite arena in their daily life, and at the same time, you can easily record the score and match situation in the process of playing sports ball.
+LeiSu sports is committed to promoting the most popular, the most professional sports and fitness venues in Chengdu, so that people in their daily life can be efficient and high-quality booking to their favorite sports and fitness venues. Our app is an app for booking sports and fitness venues. Our sports and fitness venues have clean and tidy environment and professional sports facilities. So that you can exercise happily, relaxed and healthy life.
 
-Our app is an app to reserve the arena court and record the score. Our stadium environment is clean and tidy, professional sports facilities. You can book a satisfactory stadium on our app.
+Our app shows a variety of sports and fitness venues, including gym, yoga hall, life hall, natatorium, boxing club and other sports and fitness venues. These full range of sports and fitness venues can meet the user's selection and appointment. Our app also classifies these sports and fitness venues in great detail, helping users quickly find the sports and fitness venues they want to book.
 
-Our app shows a variety of arena courts, including baseball court, basketball court, football field, billiard hall, bowling club and other arena courts. These full range of arena courses can meet the user's selection and reservation. Our app also classifies these stadiums in great detail to help users quickly find the stadiums they want to book.
+Our app will introduce each sports and fitness venue in detail, so that you can fully understand these venues and find your favorite sports and fitness venues, so that you can make an appointment and place an order. At the same time, our app also has the function of collecting sports and fitness venues. You can add your favorite sports and fitness venues to the list, so that you can browse and place your order next time.
 
-Our app will introduce each stadium in detail, so that you can fully understand these stadiums and find the stadiums you like, so that you can make an appointment and place an order. At the same time, our APP also has the collection function of the stadium. You can add your favorite courts to the list for your next browsing and ordering.
+LeiSu sports - easy to book venues, happy and healthy life!
 
-Our app also introduces the score recording function. When you play ball in the arena, you can use our app to record the score and match situation conveniently and quickly, and you can also share the score and match situation with your friends.
 
-About the arena, play well, easily record the score!
-
-If you have any questions, please contact us as follows :w18384297018@163.com
+If you have any questions, please contact us as follows :chu83861niao@163.com

@@ -1,6 +1,13 @@
-# TouTiaoQiuMiDaShi
+# JiuZhouTiYu
 
-TouTiaoQiuMiDaShi allows you to enjoy the fun of playing and fitness, and experience the happiness brought by sports. It is a professional app for booking golf and fitness venues. We recommend all kinds of famous professional golf and fitness venues in Guangzhou, so that you can efficiently book to the places you want to exercise in your daily life. Our gym is professional and comfortable, very suitable for sports and fitness. Use our app to book the most professional venues, and our app can also sign in to get points, points for sports equipment, so that you can have a happy exercise.
+JiuZhouTiYu is dedicated to promoting the hot, professional and exciting racing venues in Beijing, so that people can book their favorite racing venues efficiently and with high quality in their daily life.
 
+- Our APP is a professional booking platform for racing venues. We show a variety of racing venues, including extreme skiing, water racing, swimming pool, skateboard field, roller skating and other venues. A full range of venues can be selected and booked.
 
-If you have any questions, please contact us as follows : di521logi@sina.com
+- Our app categorizes these venues in great detail to help users quickly find the venues they want to book.
+
+- Our APP also has the collection function of racing venues. You can add your favorite racing venues to the favorites list for your next booking.
+
+Book a professional racing venue and enjoy the excitement of speed.
+
+If you have any questions, please contact us as follows : w18384297018@163.com:

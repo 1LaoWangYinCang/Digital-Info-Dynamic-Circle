@@ -1,6 +1,6 @@
-# JiuZhouTiYu
+# FanYaDainJing
 
-Pan-asia Esports is a platform for booking esports entertainment venues and purchasing professional esports equipment. Our esports entertainment venues are clean and comfortable with high configuration of esports equipment. You can book the most comfortable esports entertainment places in our app and buy the most professional esports equipment.
+FanYaDainJing is a platform for booking esports entertainment venues and purchasing professional esports equipment. Our esports entertainment venues are clean and comfortable with high configuration of esports equipment. You can book the most comfortable esports entertainment places in our app and buy the most professional esports equipment.
 
 - our app shows a variety of esports entertainment venues, including Internet cafes, Internet cafes, esports, esports hotels, mobile game esports and other entertainment venues. These full range of esports venues can meet the user's selection and reservation.
 
@@ -12,4 +12,4 @@ Pan-asia Esports is a platform for booking esports entertainment venues and purc
 
 Reserve professional esports venues and buy esports equipment!
 
-If you have any questions, please contact us as follows :  2314278292@qq.com
+If you have any questions, please contact us as follows : 2314278292@qq.com

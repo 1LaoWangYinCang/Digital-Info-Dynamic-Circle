@@ -1,13 +1,15 @@
 # JiuZhouTiYu
 
-JiuZhouTiYu is dedicated to promoting the hot, professional and exciting racing venues in Beijing, so that people can book their favorite racing venues efficiently and with high quality in their daily life.
+Pan-asia Esports is a platform for booking esports entertainment venues and purchasing professional esports equipment. Our esports entertainment venues are clean and comfortable with high configuration of esports equipment. You can book the most comfortable esports entertainment places in our app and buy the most professional esports equipment.
 
-- Our APP is a professional booking platform for racing venues. We show a variety of racing venues, including extreme skiing, water racing, swimming pool, skateboard field, roller skating and other venues. A full range of venues can be selected and booked.
+- our app shows a variety of esports entertainment venues, including Internet cafes, Internet cafes, esports, esports hotels, mobile game esports and other entertainment venues. These full range of esports venues can meet the user's selection and reservation.
 
-- Our app categorizes these venues in great detail to help users quickly find the venues they want to book.
+- Our app has classified these esports venues in great detail to help users quickly find the esports entertainment venues they want to book.
 
-- Our APP also has the collection function of racing venues. You can add your favorite racing venues to the favorites list for your next booking.
+- Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
 
-Book a professional racing venue and enjoy the excitement of speed.
+- Our app also has the function of preferential purchase of esports equipment. In our app, we can find the esports equipment purchased with coupons, and we can buy the most professional esports equipment at the most preferential price.
 
-If you have any questions, please contact us as follows : w18384297018@163.com:
+Reserve professional esports venues and buy esports equipment!
+
+If you have any questions, please contact us as follows :  2314278292@qq.com

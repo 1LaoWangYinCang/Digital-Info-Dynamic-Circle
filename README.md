@@ -1,15 +1,7 @@
-# FanYaDainJing
+# OK Digital News Sharing
 
-FanYaDainJing is a platform for booking esports entertainment venues and purchasing professional esports equipment. Our esports entertainment venues are clean and comfortable with high configuration of esports equipment. You can book the most comfortable esports entertainment places in our app and buy the most professional esports equipment.
+OK Digital News Sharing is committed to sharing the latest information of digital currency, so that people can timely understand the latest market information, currency circle news, real-time news, industry information and other information in their daily life. People can also get real-time market information of various digital currencies, and can easily book related lectures.
 
-- our app shows a variety of esports entertainment venues, including Internet cafes, Internet cafes, esports, esports hotels, mobile game esports and other entertainment venues. These full range of esports venues can meet the user's selection and reservation.
+You can also put forward your own opinions on hot news and information, share news and information, collect valuable news and praise articles you think are good. At the same time, you can also express your opinions on digital currency in the topic circle, and exchange your ideas with others, so that you can go deeper into this circle.
 
-- Our app has classified these esports venues in great detail to help users quickly find the esports entertainment venues they want to book.
-
-- Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
-
-- Our app also has the function of preferential purchase of esports equipment. In our app, we can find the esports equipment purchased with coupons, and we can buy the most professional esports equipment at the most preferential price.
-
-Reserve professional esports venues and buy esports equipment!
-
-If you have any questions, please contact us as follows : 2314278292@qq.com
+If you have any questions, please contact us as follows : thenesgdcex@hotmail.com
